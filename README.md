@@ -10,9 +10,7 @@ The dataset used for training the model is **not included** in this repository d
 ## Week 1 Progress
 
 ### Tasks Completed:
-1. **Environment Setup**:
-   - Configured Google Colab for running the project.
-   - Installed Kaggle and linked the Kaggle API key to download the dataset.
+1. **Environment Setup**
 
 2. **Dataset Handling**:
    - Downloaded and unzipped the waste classification dataset.
